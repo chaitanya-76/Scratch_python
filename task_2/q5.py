@@ -1,1 +1,0 @@
-# Print the Fibonacci sequence up to n terms.

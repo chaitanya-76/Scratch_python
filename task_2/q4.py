@@ -21,7 +21,7 @@ else:
 
 n=int(input("Enter a number : "))
 if n>2 or n==1:
-    if n%2==0 or n%3==0 or n%5==0 or n==1:
+    if n%2==0 or n%3==0 or n%5==0 or n%7==0 or n==1:
         print("not prime")
     else:
         print("prime")
